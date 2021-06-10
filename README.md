@@ -2,7 +2,7 @@
 
 Análise dos dados do dataset Heart
 
-Trabalho acadêmico de CiÊncia de Dados
+Trabalho acadêmico de Ciência de Dados
 
 Universidade Nove de Julho - UNINOVE
 

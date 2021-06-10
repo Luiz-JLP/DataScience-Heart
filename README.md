@@ -1,11 +1,15 @@
 # DataScience-Heart
+
 Análise dos dados do dataset Heart
 
-Trabalho acadêmico de CiÊncia de Dados\r\n
+Trabalho acadêmico de CiÊncia de Dados
+
 Universidade Nove de Julho - UNINOVE
+
 Profº José Eduardo Storopoli
 
 Esse projeto visa fazer um estudo dos dados relacionados a doenças do coração.
+
 Para isso, foi utilizado o dataset: Heart.csv, encontrado no Kaggle (https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset).
 
 Sobre o dataset:

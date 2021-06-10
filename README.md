@@ -1,7 +1,7 @@
 # DataScience-Heart
 Análise dos dados do dataset Heart
 
-Trabalho acadêmico de CiÊncia de Dados
+Trabalho acadêmico de CiÊncia de Dados\r\n
 Universidade Nove de Julho - UNINOVE
 Profº José Eduardo Storopoli
 

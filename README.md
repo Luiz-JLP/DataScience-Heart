@@ -27,8 +27,11 @@ O dataset Heart.csv possui 303 entradas em 14 colunas:
   - cp : Tipos de dores no peito
 
       Valor 1: Angina Típica
+      
       Valor 2: Angina Atípica
+      
       Valor 3: Dor Não-Angina
+      
       Valor 4: Assintomático
       
   - trtbps : Pressão arterial em repouso (mm Hg)
@@ -40,8 +43,11 @@ O dataset Heart.csv possui 303 entradas em 14 colunas:
   - rest_ecg : Eletrocardiograma em repouso
 
       Valor 0: Normal
+      
       Valor 1: Anormalidade
+      
       Valor 2: Hipertrofia do Ventriculo Esquerdo
+     
       
   - thalach : Batimentos Cardiácos Máximos Registrados
 

@@ -8,6 +8,8 @@ Universidade Nove de Julho - UNINOVE
 
 Profº José Eduardo Storopoli
 
+Aluno: José Luiz Pereira - RA: 406190256
+
 Esse projeto visa fazer um estudo dos dados relacionados a doenças do coração.
 
 Para isso, foi utilizado o dataset: Heart.csv, encontrado no Kaggle (https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset).
